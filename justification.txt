@@ -1,0 +1,1 @@
+The GNU GPLv3.0 was chosen due to its flexibility and lack of restrictions for contributors. The Contributor Covenant was chosen due to the shared sentiments contained within it by the team, as well as its widespread use, affirming it's credibility. This also played a role in the selection of the GNU GPLv3.0 as the license.
